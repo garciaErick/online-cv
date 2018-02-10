@@ -12,15 +12,16 @@
   company: Intel Corporation
   details: "Summer Projects:
   <ul>
-  <li>Enhance a functionality in the software the team maintains that involved WinForms UX Design, C# WCF
-  protocols, unit testing and mock Testing.</li>
-  <li>Prepare a Web Development Skeleton that uses MVC, a simple and minimalistic front end, and an extra layer
-  of JQuery/Ajax for usability. This skeleton will be used to document the manual test cases for the software they
-  maintain and develop, as well as display the status of the Continuous Integration System currently in
-  development.</li>
-  <li>Develop a Continuous Integration demo that involves Virtualization, WCF communication protocols between
-  the host and client VMs. Also enabling http interaction with this WCF services in order to link the web
-  develoment skeleton and this CI system in the future.</li>"
+    <li>Enhance a functionality in the software the team maintains that involved WinForms UX Design, C# WCF
+    protocols, unit testing and mock Testing.</li>
+    <li>Prepare a Web Development Skeleton that uses MVC, a simple and minimalistic front end, and an extra layer
+    of JQuery/Ajax for usability. This skeleton will be used to document the manual test cases for the software they
+    maintain and develop, as well as display the status of the Continuous Integration System currently in
+    development.</li>
+    <li>Develop a Continuous Integration demo that involves Virtualization, WCF communication protocols between
+    the host and client VMs. Also enabling http interaction with this WCF services in order to link the web
+    develoment skeleton and this CI system in the future.</li>
+  </ul>"
 - experience:
   role: UI Developer
   time: 2012 - 2014
