@@ -1,23 +1,26 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  role: Graduate Research Assistant in Semantic Web and Ontologies
+  time: 2016 - Present
+  company: The University of Texas at El Paso
+  details: "Working as a Graduate Research Assistant for Doctor Natalia Villanueva Rosales,
+  which field of research is Semantic Web, Data Mining, and Ontologies. Currently this is the
+  website for my research group I maintain, you can learn more about us here:
+  http://ilink.cybershare.utep.edu/"
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Software Engineering Intern at Intel Hawthorne Farms Campus
+  time: June 2017 - August 2017
+  company: Intel Corporation
+  details: "Summer Projects:
+  <ul>
+  <li>Enhance a functionality in the software the team maintains that involved WinForms UX Design, C# WCF
+  protocols, unit testing and mock Testing.</li>
+  <li>Prepare a Web Development Skeleton that uses MVC, a simple and minimalistic front end, and an extra layer
+  of JQuery/Ajax for usability. This skeleton will be used to document the manual test cases for the software they
+  maintain and develop, as well as display the status of the Continuous Integration System currently in
+  development.</li>
+  <li>Develop a Continuous Integration demo that involves Virtualization, WCF communication protocols between
+  the host and client VMs. Also enabling http interaction with this WCF services in order to link the web
+  develoment skeleton and this CI system in the future.</li>"
 - experience:
   role: UI Developer
   time: 2012 - 2014
