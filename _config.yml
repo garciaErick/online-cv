@@ -25,10 +25,10 @@ montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu
 #sidebar links
 email: garcia.erick.cs@gmail.com
 phone: +52 1 656 375 6477 (Mexico)
-website: garciaErick.github.io #do not add http://
+website: garciaErick.github.io
 linkedin: garciaErickCs
 github: garciaErick
-twitter: '@webjeda'
+#twitter: '@webjeda'
 
 #Update all the sections by editing the files inside _data folder.
 
