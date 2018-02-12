@@ -23,10 +23,39 @@
     develoment skeleton and this CI system in the future.</li>
   </ul>"
 - experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Undergraduate Research Assistant in Semantic Web and Ontologies
+  time: 2014 - 2016
+  company: The University of Texas at El Paso
+  details: "Working as a Research Assistant for Doctor Natalia Villanueva Rosales, which field of research is
+  Semantic Web, Data Mining, and Ontologies."
+- experience:
+  role: Software Engineering Intern at Intel
+  time: June 2016 - August 2016
+  company: Intel Corporation
+  details:
+  "Working in a software development team that maintained a software to automate hardware validation. Worked
+  with C#, WPF using MVVM architecture, and WiX (Windows Installer Xml) to produce a new installer for their
+  software that they still use to this day.
+
+  Summer Project: Develop a WiX (Windows installer XML) installer for a software validation tool the team
+  maintains. Using C# to add some custom actions, UI done in WPF using MVVM architecture.
+  Summer Projects:
+   <ul>
+     <li>Creation of Windows installer with WPF using MVVM architecture</li>
+     <li>Learning and applying Agile Software Development practices</li>
+   </ul>"
+- experience:
+  role: Research Intern at Stanford
+  time: June 2015 - August 2015
+  company: Army High Performance Computing Research Center
+  details:
+  "Computer vision and parallel computing research under doctor Patrick Hanrahan, consisting of embedding
+  a real time computer vision payload on a Solo 3DR smart drone"
+- experience:
+  role: Tutor/Mentor for Students with Disabilities
+  time: 2013 - August 2014
+  company: El Paso Community College
+  details:
+  "Working in private sessions with students with disabilites, enabling them to get the attention and
+  support they need to obtain their degree. This does not include only aiding them towards the degree
+  academically speaking, but also acting as their mentor for the semester."

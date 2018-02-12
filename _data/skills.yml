@@ -5,7 +5,13 @@
   name: HTML5 & CSS
   level: 98%
 - skill:
-  name: Agile Development & SOLID Practices
+  name: Agile Development & SCRUM
+  level: 90%
+- skill:
+  name: User-First Design
+  level: 90%
+- skill:
+  name: Test-driven Development
   level: 90%
 - skill:
   name: Javascript & jQuery
