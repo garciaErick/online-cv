@@ -2,10 +2,19 @@
   role: Graduate Research Assistant in Semantic Web and Ontologies
   time: 2016 - Present
   company: The University of Texas at El Paso
-  details: "Working as a Graduate Research Assistant for Doctor Natalia Villanueva Rosales,
-  which field of research is Semantic Web, Data Mining, and Ontologies. Currently this is the
+  details: "<p>Working as a Graduate Research Assistant for Doctor Natalia Villanueva Rosales,
+  which field of expertise is Semantic Web, Data Mining, and Ontologies. Currently this is the
   website for my research group I maintain, you can learn more about us
-  <a href='http://ilink.cybershare.utep.edu/'>here.</a>"
+  <a href='http://ilink.cybershare.utep.edu/'>here.</a></p>
+  Publications:
+    <ul>
+      <li>
+        <a href='https://garciaerick.github.io/resources/Heenac-Poster-Erick-Garcia.pdf'>
+          Data Integration for Digital GeoTimescale Mapping (2016)
+        </a>
+      </li>
+    </ul>
+  "
 - experience:
   role: Software Engineering Intern at Intel
   time: June 2017 - August 2017
@@ -14,10 +23,13 @@
   <ul>
     <li>Enhance a functionality in the software the team maintains that involved WinForms UX Design, C# WCF
     protocols, unit testing and mock Testing.</li>
-    <li>Prepare a Web Development Skeleton that uses MVC, a simple and minimalistic front end, and an extra layer
-    of JQuery/Ajax for usability. This skeleton will be used to document the manual test cases for the software they
-    maintain and develop, as well as display the status of the Continuous Integration System currently in
-    development.</li>
+    <li>
+        Prepare a <a href='https://github.com/garciaErick/ci-skeleton-3'>Web Development Skeleton </a>that uses MVC, a
+        simple and minimalistic front end, and an extra layer of JQuery/Ajax for usability. This skeleton will be used
+        to document the manual test cases for the software they maintain and develop, as well as display the status of
+        the Continuous Integration System currently in
+        development.
+    </li>
     <li>Develop a Continuous Integration demo that involves Virtualization, WCF communication protocols between
     the host and client VMs. Also enabling http interaction with this WCF services in order to link the web
     develoment skeleton and this CI system in the future.</li>
@@ -26,29 +38,51 @@
   role: Undergraduate Research Assistant in Semantic Web and Ontologies
   time: 2014 - 2016
   company: The University of Texas at El Paso
-  details: "Working as a Research Assistant for Doctor Natalia Villanueva Rosales, which field of research is
-  Semantic Web, Data Mining, and Ontologies."
+  details: "<p>Working as a Research Assistant for Doctor Natalia Villanueva Rosales, which field of research is
+  Semantic Web, Data Mining, and Ontologies.</p>
+  Projects and Publications:
+    <ul>
+      <li>
+        <a href='https://garciaerick.github.io/resources/Semantic-based%20data%20integration%20and%20exchange%20for%20a%20research%20group_poster.pdf'>
+          Semantic-annotating of Research Lab Activities for Data Sharing (2015)
+        </a>
+      </li>
+      <li>
+        <a href='http://ilink.cybershare.utep.edu/'>
+          Develop a semantically annotated dynamic website with a database back-end for the research group
+        </a>
+      </li>
+    </ul>"
 - experience:
   role: Software Engineering Intern at Intel
   time: June 2016 - August 2016
   company: Intel Corporation
-  details: "Working in a software development team that maintained a software to automate hardware validation. Worked
-  with C#, WPF using MVVM architecture, and WiX (Windows Installer Xml) to produce a new installer for their
-  software that they still use to this day.
+  details: "<p>Working in a software development team that maintained a software to automate hardware validation.</p>
 
-  Summer Project: Develop a WiX (Windows installer XML) installer for a software validation tool the team
-  maintains. Using C# to add some custom actions, UI done in WPF using MVVM architecture.
   Summer Projects:
    <ul>
-     <li>Creation of Windows installer with WPF using MVVM architecture</li>
-     <li>Learning and applying Agile Software Development practices</li>
+     <li>
+        Develop a <a href='http://wixtoolset.org/'>WiX (Windows installer XML)</a> installer for a software validation
+        tool the team maintains. Using C# to add some custom actions, UI done in WPF using MVVM architecture.
+     </li>
+     <li>
+      Learning and applying Agile Software Development practices
+    </li>
    </ul>"
 - experience:
   role: Research Intern at Stanford
   time: June 2015 - August 2015
   company: Army High Performance Computing Research Center
-  details: "Computer vision and parallel computing research under doctor Patrick Hanrahan, consisting of embedding
-  a real time computer vision payload on a Solo 3DR smart drone"
+  details: "<p>Computer vision and parallel computing research under doctor Patrick Hanrahan, consisting of embedding
+  a real time computer vision payload on a Solo 3DR smart drone</p>
+  Publications:
+  <ul>
+    <li>
+      <a href='https://garciaerick.github.io/resources/Real-time_Computer_Vision.pptx'>
+        Real-time Computer Vision on Quadcopters (2015)
+      </a>
+    </li>
+  </ul>"
 - experience:
   role: Tutor/Mentor for Students with Disabilities
   time: 2013 - August 2014
