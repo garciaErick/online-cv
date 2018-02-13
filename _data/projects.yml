@@ -13,6 +13,10 @@ projects:
     link: "https://github.com/garciaErick/testing-mstest-vs-xunit"
     tagline: "Comparing two popular testing framworks for the C# programming language"
   - project:
+    title: Powerpoint Solarized-Dark Template
+    link: "https://garciaerick.github.io/resources/Powerpoint%20Solarized%20Template.pptx"
+    tagline: "Simple and lightweight presentation template for Powerpoint"
+  - project:
     title: Brute Force and Dictionary Attack
     link: "https://www.facebook.com/Colectivo-Chopeke-158264838093669/"
     tagline: "Implementation of two popular password attacks done in a Computer-security course"
