@@ -1,23 +1,22 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: "The following are a list of projects that take place outside the workplace"
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: Colectivo Chopeke
+    link: "https://www.facebook.com/Colectivo-Chopeke-158264838093669/"
+    tagline: "Building low resource homes for needed Tarahumara homeless families in Mexico"
   - project:
-    title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    title: Battleship-haskell
+    link: "https://github.com/garciaErick/battleship-haskell"
+    tagline: "Classic battleship game done in the fuctional language haskell"
   - project:
-    title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    title: MsTest vs XUnit
+    link: "https://github.com/garciaErick/testing-mstest-vs-xunit"
+    tagline: "Comparing two popular testing framworks for the C# programming language"
   - project:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    title: Brute Force and Dictionary Attack
+    link: "https://www.facebook.com/Colectivo-Chopeke-158264838093669/"
+    tagline: "Implementation of two popular password attacks done in a Computer-security course"
   - project:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    title: SSL and SSH protocols implementation
+    link: "https://github.com/garciaErick/security-lab02"
+    tagline: "Implementation of the common popular SSL and SSH protocols"
