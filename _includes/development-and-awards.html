@@ -1,0 +1,33 @@
+<!--todo: change css naming to match file name-->
+{% if site.data.development-and-awards %}
+<section class="section publications-section">
+	
+	<h2 class="section-title"><i class="fa fa-file-text"></i>Professional Development and Awards</h2>
+	
+	{% if site.data.development-and-awards.intro %}
+	<div class="intro">
+		<p>{{ site.development-and-awards.intro }}</p>
+	</div><!--//intro-->
+	{% endif %}
+	
+	{% for entry in site.data.development-and-awards.entries %}
+	<div class="item">
+		
+		<div class="meta">
+			
+			<div class="upper-row">
+				<h3 class="job-title">{{ entry.title }}</h3>
+				<div class="time">{{ entry.date }}</div>
+			</div><!--//upper-row-->
+			<div class="company"></div>
+		
+		</div><!--//meta-->
+		
+		<div class="details">
+			<p>{{ entry.description }}</p>
+		</div><!--//details-->
+	</div>
+	
+	{% endfor %}
+</section><!--//section-->
+{% endif %}
