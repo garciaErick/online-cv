@@ -91,6 +91,13 @@ p {
   border-radius: 100%;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
 }
+.sidebar-wrapper .logo {
+  max-width: 70px;
+  margin-bottom: -25px;
+  padding: 10px;
+  border: 0px solid #fff;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
 .sidebar-wrapper .contact-list .fa {
   margin-right: 5px;
   font-size: 18px;

@@ -12,6 +12,12 @@
 		{% if site.tagline %}
 		<h3 class="tagline">{{site.tagline}}</h3>
 		{% endif %}
+		
+		{% if site.logo %}
+		<a href="http://erick-garcia.com">
+			<img class="logo" src="{{site.baseurl}}/assets/images/{{ site.logo }}" alt="brand logo"/>
+		</a>
+		{% endif %}
 	
 	</div><!--//profile-container-->
 	
@@ -73,7 +79,6 @@
 	{% include language.html %}
 	{% include interests.html %}
 	
-
 	
 	{% if site.about %}
 	{% include about.html %}
