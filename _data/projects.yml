@@ -1,9 +1,9 @@
-intro: "The following are a list of projects that take place outside the workplace"
+intro: "The following are a list of projects that take place outside the workplace, I am the author unless stated otherwise"
 projects:
   - project:
     title: Colectivo Chopeke
     link: "https://www.facebook.com/Colectivo-Chopeke-158264838093669/"
-    tagline: "Building low resource homes for needed Tarahumara homeless families in Mexico"
+    tagline: "Contributor in building low resource homes for needed Tarahumara homeless families in Mexico, under the supervision of Architect Omar Rios"
   - project:
     title: Battleship-haskell
     link: "https://github.com/garciaErick/battleship-haskell"
@@ -18,7 +18,7 @@ projects:
     tagline: "Simple and lightweight presentation template for Powerpoint"
   - project:
     title: Brute Force and Dictionary Attack
-    link: "https://www.facebook.com/Colectivo-Chopeke-158264838093669/"
+    link: "https://github.com/garciaErick/security_hw01_passwordattacker"
     tagline: "Implementation of two popular password attacks done in a Computer-security course"
   - project:
     title: SSL and SSH protocols implementation
