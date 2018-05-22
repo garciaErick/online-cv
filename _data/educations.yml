@@ -1,21 +1,23 @@
 - education:
-  degree: MS in Software Engineering
+  degree: MS in Software Engineering (3.45)
   university: University of Texas at El Paso
   time: 2016 - 2018
+  specialization: Cyber Secure Systems
   details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
   elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
   magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
   pellentesque eu, pretium quis, sem."
 - education:
-  degree: BS in Computer Science
+  degree: BS in Computer Science (3.34)
   university: University of Texas at El Paso
   time: 2014 - 2016
+  specialization: "Minor in Math"
   details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
   elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
   magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
   pellentesque eu, pretium quis, sem."
 - education:
-  degree: AA in Computer Science
+  degree: AA in Computer Science (3.81)
   university: El Paso Community College
   time: 2012 - 2014
   details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
