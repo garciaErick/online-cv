@@ -5,6 +5,9 @@
   name: HTML5 & CSS
   level: 98%
 - skill:
+  name: MVC & MVVM Architecture
+  level: 98%
+- skill:
   name: Agile Development & SCRUM
   level: 90%
 - skill:
@@ -14,8 +17,17 @@
   name: Test-driven Development
   level: 90%
 - skill:
-  name: Javascript & jQuery
-  level: 90%
+  name: Unit Testing & Mock Testing
+  level: 85%
+- skill:
+  name: JQuery & Ajax
+  level: 85%
+- skill:
+  name: Git & Microsoft TFS
+  level: 85%
+- skill:
+  name: Academic Research
+  level: 80%
 - skill:
   name: Angular
   level: 60%
