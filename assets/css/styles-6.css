@@ -130,7 +130,10 @@ p {
 }
 
 .sidebar-wrapper .container-block {
-    padding: 30px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    padding-right: 15px;
+    padding-left: 30px;
 }
 
 .sidebar-wrapper .container-block-title {
