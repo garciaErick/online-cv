@@ -31,6 +31,10 @@
 			{% if site.phone %}
 			<li class="phone"><i class="fa fa-phone"></i><a href="tel:{{site.phone}}">{{site.phone}}</a></li>
 			{% endif %}
+
+      {% if site.alt-phone %}
+        <li class="phone"><i class="fa fa-phone"></i><a href="tel:{{site.phone}}">{{site.phone}}</a></li>
+      {% endif %}
 			
 			{% if site.website %}
 			<li class="website"><i class="fa fa-globe"></i><a href="http://{{site.website}}"
