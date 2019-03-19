@@ -48,7 +48,7 @@ p {
 }
 
 .wrapper {
-    background: #4B6A78;
+    background: #2c2c36;
     max-width: 1000px;
     margin: 0 auto;
     position: relative;
@@ -58,7 +58,7 @@ p {
 }
 
 .sidebar-wrapper {
-    background: #4B6A78;
+    background: #2c2c36;
     position: absolute;
     right: 0;
     width: 280px;
